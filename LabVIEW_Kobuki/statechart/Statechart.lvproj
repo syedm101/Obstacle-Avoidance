@@ -132,6 +132,7 @@ DirectoryIndex index.htm
 				<Property Name="crio.ModuleContainerType" Type="Str">crio.RSIModuleContainer</Property>
 			</Item>
 		</Item>
+		<Item Name="Drive Logic Sub (SubVI).vi" Type="VI" URL="../../../../../Lab1_StartingPoint/LabVIEW_Kobuki/statechart/Drive Logic Sub (SubVI).vi"/>
 		<Item Name="Robot Drive Direct.vi" Type="VI" URL="../../system/Robot Drive Direct.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
